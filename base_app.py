@@ -352,8 +352,7 @@ def main():
         st.markdown("Mandisa")
         st.markdown("Nokubonga ")
         st.markdown("Lefa")
-	st.markdown("Vumbhoni")
-
+	
        
 
     
