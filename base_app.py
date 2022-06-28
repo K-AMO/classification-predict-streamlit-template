@@ -347,12 +347,12 @@ def main():
     #Building Profile Page
     if selection == "Profile":
         st.info("Founders Information")
-        st.markdown("Kamogelo Masekwa")
+        st.markdown("Lefa Matlala")
         st.markdown("Alex Thotse")
         st.markdown("Mandisa Buthelezi")
         st.markdown("Nokubongwa Ndlela")
         st.markdown("Vumbhoni Maluleke")
-	st.markdown("Lefa Matlala")
+	
 	
        
 
